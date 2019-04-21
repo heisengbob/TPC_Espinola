@@ -6,7 +6,12 @@ using System.Threading.Tasks;
 
 namespace Dominio
 {
-    class Articulo
+    public class Articulo
     {
+        public int id { get; set; }
+        public string Descripcion { get; set; }
+        public Marca Marca { get; set; }
+        public TipoArticulo Tipo { get; set; }
+        public List<Proveedor> Proveedores { get; set; }
     }
 }

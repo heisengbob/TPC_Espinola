@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppEscritorio", "AppEscrito
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppWeb", "AppWeb\AppWeb.csproj", "{12BA2CB6-48D6-4EC0-A10F-0FA72ED21250}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccesoDatos", "AccesoDatos\AccesoDatos.csproj", "{C8513666-6955-45A4-8F4C-AC2DDC4D3124}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Negocio", "Negocio\Negocio.csproj", "{FFE459FB-28DF-4B58-9194-59A25B64D75E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{12BA2CB6-48D6-4EC0-A10F-0FA72ED21250}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{12BA2CB6-48D6-4EC0-A10F-0FA72ED21250}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{12BA2CB6-48D6-4EC0-A10F-0FA72ED21250}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8513666-6955-45A4-8F4C-AC2DDC4D3124}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8513666-6955-45A4-8F4C-AC2DDC4D3124}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8513666-6955-45A4-8F4C-AC2DDC4D3124}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8513666-6955-45A4-8F4C-AC2DDC4D3124}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFE459FB-28DF-4B58-9194-59A25B64D75E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFE459FB-28DF-4B58-9194-59A25B64D75E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFE459FB-28DF-4B58-9194-59A25B64D75E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFE459FB-28DF-4B58-9194-59A25B64D75E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

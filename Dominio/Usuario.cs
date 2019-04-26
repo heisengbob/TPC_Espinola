@@ -8,5 +8,8 @@ namespace Dominio
 {
     public class Usuario
     {
+        public string User { get; set; }
+        public string Descripcion { get; set; }
+        public List<Permiso> Permisos { get; set; }
     }
 }

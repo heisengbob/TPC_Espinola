@@ -1,0 +1,2 @@
+E:\Proyectos [GIT]\TPC - Comercio\Dominio\obj\Debug\Dominio.csprojAssemblyReference.cache
+E:\Proyectos [GIT]\TPC - Comercio\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache

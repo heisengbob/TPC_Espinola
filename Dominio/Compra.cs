@@ -10,9 +10,9 @@ namespace Dominio
     {
         public int ID { get; set; }
         public DateTime Fecha { get; set; }
-        public int Cant { get; set; }
-        public string Descripcion { get; set; }
-        public Marca Marca { get; set; }
         public float Costo { get; set; }
+        public List<SalidaDeArticulos> ArtVendidos;
+        public float ImporteTotal { get; set; }
+        public float IVATotal { get; set; }
     }
 }

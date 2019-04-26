@@ -10,5 +10,6 @@ namespace Dominio
     {
         public int CUIT { get; set; }
         public string RazonSocial { get; set; }
+        List<Articulo> Articulos;
     }
 }

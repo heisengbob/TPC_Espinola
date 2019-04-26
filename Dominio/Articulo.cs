@@ -17,6 +17,6 @@ namespace Dominio
         public float IVA { get; set; }
         public int StockMin { get; set; }
         public Stock Stock { get; set; }
-        public List<Proveedor> Proveedores { get; set; }
+        public List<Proveedor> Proveedores;
     }
 }

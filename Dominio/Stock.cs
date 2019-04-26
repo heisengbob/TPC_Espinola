@@ -8,5 +8,6 @@ namespace Dominio
 {
     public class Stock
     {
+        List<Articulo> Articulos;
     }
 }

@@ -8,5 +8,11 @@ namespace Dominio
 {
     public class Venta
     {
+        public int ID { get; set; }
+        public DateTime Fecha { get; set; }
+        public List<SalidaDeArticulos> ArtSalida { get; set; }
+        public Cliente Cliente { get; set; }
+        public float ImporteTotal { get; set; }
+        public float IVATotal { get; set; }
     }
 }

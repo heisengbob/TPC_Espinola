@@ -8,5 +8,7 @@ namespace Dominio
 {
     public class SalidaDeArticulos
     {
+        public Articulo art { get; set; }
+        public int cantidad { get; set; }
     }
 }

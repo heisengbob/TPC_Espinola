@@ -10,6 +10,6 @@ namespace Dominio
     {
         public int ID { get; set; }
         public string RazonSocial { get; set; }
-        public List<Articulo> Articulos { get; set; }
+        public List<Marca> Marcas { get; set; }
     }
 }

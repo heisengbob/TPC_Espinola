@@ -24,15 +24,11 @@ namespace AppEscritorio
             InitializeComponent();
             nuevocliente = cliente;
         }
-
-        private void button1_Click(object sender, EventArgs e)
+        private void btnAceptar_Click(object sender, EventArgs e)
         {
-            //Heroe heroe = new Heroe();
             ClienteNegocio negocio = new ClienteNegocio();
             try
             {
-                //MSF-20190420: ahora pasamos a usar siempre la variable heroeLocal, si vino algo de afuera, lo usamos
-                //pero sino, tenemos que crear un heroe nuevo.
                 if (nuevocliente == null)
                     nuevocliente = new Cliente();
 
@@ -46,10 +42,7 @@ namespace AppEscritorio
                 nuevocliente.Mail = txtMail.Text;
                 nuevocliente.Provincia = txtProvincia.Text;
                 nuevocliente.Celular = txtCelular.Text;
-
-                //MSF-20190420: si el heroe tienen ID es porque vino uno existente de afuera, entonces lo modifico.
-                //Sino, es porque lo acabo de crear, entonces lo mando a agregar.
-
+                
                 negocio.agregarCliente(nuevocliente);
                 Close();
 
@@ -60,8 +53,7 @@ namespace AppEscritorio
             }
 
         }
-
-        private void button2_Click(object sender, EventArgs e)
+        private void btnCancelar_Click(object sender, EventArgs e)
         {
             this.Close();
         }

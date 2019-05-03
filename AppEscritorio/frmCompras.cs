@@ -10,16 +10,16 @@ using System.Windows.Forms;
 
 namespace AppEscritorio
 {
-    public partial class Articulos : Form
+    public partial class frmCompras : Form
     {
-        public Articulos()
+        public frmCompras()
         {
             InitializeComponent();
         }
-
         private void button6_Click(object sender, EventArgs e)
         {
             this.Close();
         }
+
     }
 }

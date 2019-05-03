@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace AppEscritorio
 {
-    public partial class Ventas : Form
+    public partial class frmVentas : Form
     {
-        public Ventas()
+        public frmVentas()
         {
             InitializeComponent();
         }

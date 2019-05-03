@@ -16,7 +16,7 @@ namespace AppEscritorio
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Principal principal = new Principal();
+            frmPrincipal principal = new frmPrincipal();
             Application.Run(principal);
         }
     }

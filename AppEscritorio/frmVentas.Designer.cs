@@ -1,6 +1,6 @@
 ﻿namespace AppEscritorio
 {
-    partial class Ventas
+    partial class frmVentas
     {
         /// <summary>
         /// Required designer variable.

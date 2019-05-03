@@ -7,11 +7,6 @@ E:\Proyectos [GIT]\TPC - Comercio\AppEscritorio\obj\Debug\AppEscritorio.csproj.G
 E:\Proyectos [GIT]\TPC - Comercio\AppEscritorio\obj\Debug\AppEscritorio.csproj.CoreCompileInputs.cache
 E:\Proyectos [GIT]\TPC - Comercio\AppEscritorio\obj\Debug\AppEscritorio.exe
 E:\Proyectos [GIT]\TPC - Comercio\AppEscritorio\obj\Debug\AppEscritorio.pdb
-E:\Proyectos [GIT]\TPC - Comercio\AppEscritorio\obj\Debug\AppEscritorio.Principal.resources
-E:\Proyectos [GIT]\TPC - Comercio\AppEscritorio\obj\Debug\AppEscritorio.Compras.resources
-E:\Proyectos [GIT]\TPC - Comercio\AppEscritorio\obj\Debug\AppEscritorio.Ventas.resources
-E:\Proyectos [GIT]\TPC - Comercio\AppEscritorio\obj\Debug\AppEscritorio.Articulos.resources
-E:\Proyectos [GIT]\TPC - Comercio\AppEscritorio\obj\Debug\AppEscritorio.Clientes.resources
 E:\Proyectos [GIT]\TPC - Comercio\AppEscritorio\obj\Debug\AppEscritorio.frmAltaCliente.resources
 E:\Proyectos [GIT]\TPC - Comercio\AppEscritorio\bin\Debug\AccesoDatos.dll
 E:\Proyectos [GIT]\TPC - Comercio\AppEscritorio\bin\Debug\Dominio.dll
@@ -20,3 +15,9 @@ E:\Proyectos [GIT]\TPC - Comercio\AppEscritorio\bin\Debug\AccesoDatos.pdb
 E:\Proyectos [GIT]\TPC - Comercio\AppEscritorio\bin\Debug\Dominio.pdb
 E:\Proyectos [GIT]\TPC - Comercio\AppEscritorio\bin\Debug\Negocio.pdb
 E:\Proyectos [GIT]\TPC - Comercio\AppEscritorio\obj\Debug\AppEscritorio.csproj.CopyComplete
+E:\Proyectos [GIT]\TPC - Comercio\AppEscritorio\obj\Debug\AppEscritorio.frmArticulos.resources
+E:\Proyectos [GIT]\TPC - Comercio\AppEscritorio\obj\Debug\AppEscritorio.frmClientes.resources
+E:\Proyectos [GIT]\TPC - Comercio\AppEscritorio\obj\Debug\AppEscritorio.frmCompras.resources
+E:\Proyectos [GIT]\TPC - Comercio\AppEscritorio\obj\Debug\AppEscritorio.frmPrincipal.resources
+E:\Proyectos [GIT]\TPC - Comercio\AppEscritorio\obj\Debug\AppEscritorio.frmVentas.resources
+E:\Proyectos [GIT]\TPC - Comercio\AppEscritorio\obj\Debug\AppEscritorio.frmAltaArticulo.resources

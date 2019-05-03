@@ -51,7 +51,6 @@ namespace AppEscritorio
                 //Sino, es porque lo acabo de crear, entonces lo mando a agregar.
 
                 negocio.agregarCliente(nuevocliente);
-
                 Close();
 
             }
@@ -60,6 +59,11 @@ namespace AppEscritorio
                 MessageBox.Show(ex.ToString());
             }
 
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            this.Close();
         }
     }
 }

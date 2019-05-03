@@ -1,11 +1,11 @@
 use master
 go
-create database COMERCIO_DB
+create database ESPINOLA_DB
 go
-use COMERCIO_DB
+use ESPINOLA_DB
 go
 
-USE COMERCIO_DB
+USE ESPINOLA_DB
 GO
 
 SET ANSI_NULLS ON

@@ -21,3 +21,26 @@ E:\Proyectos [GIT]\TPC - Comercio\AppEscritorio\obj\Debug\AppEscritorio.frmCompr
 E:\Proyectos [GIT]\TPC - Comercio\AppEscritorio\obj\Debug\AppEscritorio.frmPrincipal.resources
 E:\Proyectos [GIT]\TPC - Comercio\AppEscritorio\obj\Debug\AppEscritorio.frmVentas.resources
 E:\Proyectos [GIT]\TPC - Comercio\AppEscritorio\obj\Debug\AppEscritorio.frmAltaArticulo.resources
+C:\Proyectos\Proyectos [GIT]\TPC_Espinola\AppEscritorio\bin\Debug\AppEscritorio.exe.config
+C:\Proyectos\Proyectos [GIT]\TPC_Espinola\AppEscritorio\bin\Debug\AppEscritorio.exe
+C:\Proyectos\Proyectos [GIT]\TPC_Espinola\AppEscritorio\bin\Debug\AppEscritorio.pdb
+C:\Proyectos\Proyectos [GIT]\TPC_Espinola\AppEscritorio\bin\Debug\AccesoDatos.dll
+C:\Proyectos\Proyectos [GIT]\TPC_Espinola\AppEscritorio\bin\Debug\Dominio.dll
+C:\Proyectos\Proyectos [GIT]\TPC_Espinola\AppEscritorio\bin\Debug\Negocio.dll
+C:\Proyectos\Proyectos [GIT]\TPC_Espinola\AppEscritorio\bin\Debug\AccesoDatos.pdb
+C:\Proyectos\Proyectos [GIT]\TPC_Espinola\AppEscritorio\bin\Debug\Dominio.pdb
+C:\Proyectos\Proyectos [GIT]\TPC_Espinola\AppEscritorio\bin\Debug\Negocio.pdb
+C:\Proyectos\Proyectos [GIT]\TPC_Espinola\AppEscritorio\obj\Debug\AppEscritorio.csprojAssemblyReference.cache
+C:\Proyectos\Proyectos [GIT]\TPC_Espinola\AppEscritorio\obj\Debug\AppEscritorio.frmAltaArticulo.resources
+C:\Proyectos\Proyectos [GIT]\TPC_Espinola\AppEscritorio\obj\Debug\AppEscritorio.frmArticulos.resources
+C:\Proyectos\Proyectos [GIT]\TPC_Espinola\AppEscritorio\obj\Debug\AppEscritorio.frmClientes.resources
+C:\Proyectos\Proyectos [GIT]\TPC_Espinola\AppEscritorio\obj\Debug\AppEscritorio.frmCompras.resources
+C:\Proyectos\Proyectos [GIT]\TPC_Espinola\AppEscritorio\obj\Debug\AppEscritorio.frmAltaCliente.resources
+C:\Proyectos\Proyectos [GIT]\TPC_Espinola\AppEscritorio\obj\Debug\AppEscritorio.frmPrincipal.resources
+C:\Proyectos\Proyectos [GIT]\TPC_Espinola\AppEscritorio\obj\Debug\AppEscritorio.Properties.Resources.resources
+C:\Proyectos\Proyectos [GIT]\TPC_Espinola\AppEscritorio\obj\Debug\AppEscritorio.frmVentas.resources
+C:\Proyectos\Proyectos [GIT]\TPC_Espinola\AppEscritorio\obj\Debug\AppEscritorio.csproj.GenerateResource.cache
+C:\Proyectos\Proyectos [GIT]\TPC_Espinola\AppEscritorio\obj\Debug\AppEscritorio.csproj.CoreCompileInputs.cache
+C:\Proyectos\Proyectos [GIT]\TPC_Espinola\AppEscritorio\obj\Debug\AppEscritorio.csproj.CopyComplete
+C:\Proyectos\Proyectos [GIT]\TPC_Espinola\AppEscritorio\obj\Debug\AppEscritorio.exe
+C:\Proyectos\Proyectos [GIT]\TPC_Espinola\AppEscritorio\obj\Debug\AppEscritorio.pdb

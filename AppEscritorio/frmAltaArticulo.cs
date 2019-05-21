@@ -55,5 +55,33 @@ namespace AppEscritorio
         {
             this.Close();
         }
+
+        private void frmAltaArticulo_Load(object sender, EventArgs e)
+        {
+            try
+            {
+
+                //Opcional para combos
+                //cboUniverso.DisplayMember = "Nombre";
+                //cboUniverso.ValueMember = "Id";
+
+                if (nuevoArticulo != null)
+                {
+                    txtCodigo.Text = nuevoArticulo.Codigo.ToString();
+                    txtDescripcion.Text = nuevoArticulo.Descripcion;
+                    //txtMarca.Text = nuevoArticulo.Marca.RazonSocial;
+                    //txtTipo.Text = nuevoArticulo.Tipo.Descripcion;
+                    txtPrecio.Text = nuevoArticulo.Precio.ToString();
+                    txtCosto.Text = nuevoArticulo.Costo.ToString();
+                    txtIVA.Text = nuevoArticulo.IVA.ToString();
+                    txtStockMin.Text = nuevoArticulo.StockMin.ToString();
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.ToString());
+            }
+
+        }
     }
 }

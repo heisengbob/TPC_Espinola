@@ -19,6 +19,7 @@ namespace AppEscritorio
         {
             InitializeComponent();
         }
+
         public frmAltaCliente(Cliente cliente)
         {
             InitializeComponent();
@@ -56,6 +57,37 @@ namespace AppEscritorio
         private void btnCancelar_Click(object sender, EventArgs e)
         {
             this.Close();
+        }
+
+        private void frmAltaCliente_Load(object sender, EventArgs e)
+        {
+              
+            try
+            {
+
+                //Opcional para combos
+                //cboUniverso.DisplayMember = "Nombre";
+                //cboUniverso.ValueMember = "Id";
+
+                if (nuevocliente != null)
+                {
+                    txtNombre.Text      = nuevocliente.Nombre;
+                    txtApellido.Text    = nuevocliente.Apellido;
+                    txtDNI.Text         = nuevocliente.DNI.ToString();
+                    txtLocalidad.Text   = nuevocliente.Localidad;
+                    txtProvincia.Text   = nuevocliente.Provincia;
+                    txtMail.Text        = nuevocliente.Mail;
+                    txtCelular.Text     = nuevocliente.Celular;
+                    txtDireccion.Text   = nuevocliente.Direccion;
+                    txtCodPostal.Text   = nuevocliente.CodPostal.ToString();
+                    dtpFNacimiento.Value = nuevocliente.FNacimiento;
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.ToString());
+            }
+
         }
     }
 }

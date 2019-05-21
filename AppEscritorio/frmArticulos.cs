@@ -48,5 +48,16 @@ namespace AppEscritorio
         {
             cargarGrilla();
         }
+
+        private void btnModificar_Click(object sender, EventArgs e)
+        {
+
+            if (dgvArticulos.SelectedRows.Count != 0)
+            {
+                frmAltaArticulo modificarArticulo = new frmAltaArticulo((Articulo)dgvArticulos.CurrentRow.DataBoundItem);
+                modificarArticulo.ShowDialog();
+                cargarGrilla();
+            }
+        }
     }
 }

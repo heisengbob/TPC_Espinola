@@ -28,3 +28,33 @@ E:\Proyectos [GIT]\TPC - Comercio\AccesoDatos\obj\Debug\AccesoDatos.csproj.CoreC
 E:\Proyectos [GIT]\TPC - Comercio\AccesoDatos\obj\Debug\AccesoDatos.csproj.CopyComplete
 E:\Proyectos [GIT]\TPC - Comercio\AccesoDatos\obj\Debug\AccesoDatos.dll
 E:\Proyectos [GIT]\TPC - Comercio\AccesoDatos\obj\Debug\AccesoDatos.pdb
+C:\Users\mespi\Downloads\TPC_Espinola-master\TPC_Espinola-master\AccesoDatos\bin\Debug\AccesoDatos.dll
+C:\Users\mespi\Downloads\TPC_Espinola-master\TPC_Espinola-master\AccesoDatos\bin\Debug\AccesoDatos.pdb
+C:\Users\mespi\Downloads\TPC_Espinola-master\TPC_Espinola-master\AccesoDatos\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+C:\Users\mespi\Downloads\TPC_Espinola-master\TPC_Espinola-master\AccesoDatos\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+C:\Users\mespi\Downloads\TPC_Espinola-master\TPC_Espinola-master\AccesoDatos\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\mespi\Downloads\TPC_Espinola-master\TPC_Espinola-master\AccesoDatos\bin\Debug\Microsoft.Build.dll
+C:\Users\mespi\Downloads\TPC_Espinola-master\TPC_Espinola-master\AccesoDatos\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\mespi\Downloads\TPC_Espinola-master\TPC_Espinola-master\AccesoDatos\bin\Debug\System.Collections.Immutable.dll
+C:\Users\mespi\Downloads\TPC_Espinola-master\TPC_Espinola-master\AccesoDatos\bin\Debug\System.IO.Compression.dll
+C:\Users\mespi\Downloads\TPC_Espinola-master\TPC_Espinola-master\AccesoDatos\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\mespi\Downloads\TPC_Espinola-master\TPC_Espinola-master\AccesoDatos\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\mespi\Downloads\TPC_Espinola-master\TPC_Espinola-master\AccesoDatos\bin\Debug\cs\Microsoft.Build.resources.dll
+C:\Users\mespi\Downloads\TPC_Espinola-master\TPC_Espinola-master\AccesoDatos\bin\Debug\de\Microsoft.Build.resources.dll
+C:\Users\mespi\Downloads\TPC_Espinola-master\TPC_Espinola-master\AccesoDatos\bin\Debug\en\Microsoft.Build.resources.dll
+C:\Users\mespi\Downloads\TPC_Espinola-master\TPC_Espinola-master\AccesoDatos\bin\Debug\es\Microsoft.Build.resources.dll
+C:\Users\mespi\Downloads\TPC_Espinola-master\TPC_Espinola-master\AccesoDatos\bin\Debug\fr\Microsoft.Build.resources.dll
+C:\Users\mespi\Downloads\TPC_Espinola-master\TPC_Espinola-master\AccesoDatos\bin\Debug\it\Microsoft.Build.resources.dll
+C:\Users\mespi\Downloads\TPC_Espinola-master\TPC_Espinola-master\AccesoDatos\bin\Debug\ja\Microsoft.Build.resources.dll
+C:\Users\mespi\Downloads\TPC_Espinola-master\TPC_Espinola-master\AccesoDatos\bin\Debug\ko\Microsoft.Build.resources.dll
+C:\Users\mespi\Downloads\TPC_Espinola-master\TPC_Espinola-master\AccesoDatos\bin\Debug\pl\Microsoft.Build.resources.dll
+C:\Users\mespi\Downloads\TPC_Espinola-master\TPC_Espinola-master\AccesoDatos\bin\Debug\pt-BR\Microsoft.Build.resources.dll
+C:\Users\mespi\Downloads\TPC_Espinola-master\TPC_Espinola-master\AccesoDatos\bin\Debug\ru\Microsoft.Build.resources.dll
+C:\Users\mespi\Downloads\TPC_Espinola-master\TPC_Espinola-master\AccesoDatos\bin\Debug\tr\Microsoft.Build.resources.dll
+C:\Users\mespi\Downloads\TPC_Espinola-master\TPC_Espinola-master\AccesoDatos\bin\Debug\zh-Hans\Microsoft.Build.resources.dll
+C:\Users\mespi\Downloads\TPC_Espinola-master\TPC_Espinola-master\AccesoDatos\bin\Debug\zh-Hant\Microsoft.Build.resources.dll
+C:\Users\mespi\Downloads\TPC_Espinola-master\TPC_Espinola-master\AccesoDatos\obj\Debug\AccesoDatos.csprojAssemblyReference.cache
+C:\Users\mespi\Downloads\TPC_Espinola-master\TPC_Espinola-master\AccesoDatos\obj\Debug\AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\mespi\Downloads\TPC_Espinola-master\TPC_Espinola-master\AccesoDatos\obj\Debug\AccesoDatos.csproj.CopyComplete
+C:\Users\mespi\Downloads\TPC_Espinola-master\TPC_Espinola-master\AccesoDatos\obj\Debug\AccesoDatos.dll
+C:\Users\mespi\Downloads\TPC_Espinola-master\TPC_Espinola-master\AccesoDatos\obj\Debug\AccesoDatos.pdb

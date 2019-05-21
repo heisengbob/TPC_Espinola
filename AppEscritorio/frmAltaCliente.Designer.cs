@@ -261,6 +261,7 @@
             this.Controls.Add(this.txtDNI);
             this.Name = "frmAltaCliente";
             this.Text = "frmAltaCliente";
+            this.Load += new System.EventHandler(this.frmAltaCliente_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

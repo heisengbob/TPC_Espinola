@@ -35,7 +35,9 @@ namespace AppEscritorio
         private void Clientes_Load(object sender, EventArgs e)
         {
             cargarGrilla();
+            dgvClientes.CurrentCell.Selected = false; 
         }
+ 
 
         private void btnNuevo_Click(object sender, EventArgs e)
         {
@@ -51,7 +53,12 @@ namespace AppEscritorio
 
         private void btnModificar_Click(object sender, EventArgs e)
         {
-
+            if (dgvClientes.SelectedRows.Count != 0)
+            {
+                frmAltaCliente modificarCliente = new frmAltaCliente((Cliente)dgvClientes.CurrentRow.DataBoundItem);
+                modificarCliente.ShowDialog();
+                cargarGrilla();
+            }
         }
 
         private void btnEliminar_Click(object sender, EventArgs e)
@@ -67,6 +74,11 @@ namespace AppEscritorio
         private void btnSalir_Click(object sender, EventArgs e)
         {
             this.Close();
+        }
+
+        private void dgvClientes_DataBindingComplete(object sender, DataGridViewBindingCompleteEventArgs e)
+        {
+            dgvClientes.ClearSelection();
         }
     }
 }
